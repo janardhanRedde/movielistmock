@@ -1,0 +1,20 @@
+.card{
+margin-top: 10px;
+box-shadow: 2px 2px 0px 0px gray;
+background-color: aliceblue;
+height: 100%;
+cursor: pointer;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.card-img-top{
+    height: 40vh;
+    transition: all 0.3s;
+    
+}
+
+.card-img-top:hover{
+    height: 50vh;
+    transition: all 0.3s;
+}
